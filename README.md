@@ -7,7 +7,7 @@ I'm a React JS developer.
 
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=tareq__2014)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftareq__2014&screen_name=tareq__2014)
 
 ## I'm a Husband, Developer, and Teacher!!
 
