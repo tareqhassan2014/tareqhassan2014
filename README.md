@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tareq Hassan</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 
-### Connect with me:
-
 <p align='center'>
 
 ![Profile views](https://gpvc.arturio.dev/tareqhassan2014)
 </p>
+
+### Connect with me:
+
+
  
  
 [![Tareq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tareqhassan2014)](https://www.linkedin.com/in/tareqhassan2014/)
