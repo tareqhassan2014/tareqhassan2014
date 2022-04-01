@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tareq Hassan</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 
-<p align='center'>
 
-![Profile views](https://gpvc.arturio.dev/tareqhassan2014)
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tareqhassan2014&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarmehedi" /> </p>
+
 
 ### Connect with me:
 
