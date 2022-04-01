@@ -13,10 +13,6 @@ I'm a React JS developer.
 ### Connect with me:
 
 
-<br />
-<br />
-
----
 
 ![Profile views](https://gpvc.arturio.dev/tareqhassan2014)
 
