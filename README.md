@@ -33,4 +33,3 @@ I'm a React JS developer.
 <a href= https://github.com/mutasimifazmutasimifaz?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 <a href= https://github.com/mutasimifaz?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a> </a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutasimifaz&layout=compact" alt="mutasimifaz" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mutasimifaz&show_icons=true&theme=radical" alt="mutasimifaz" /></p>
