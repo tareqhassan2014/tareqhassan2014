@@ -4,9 +4,9 @@
 
 ## I'm Tareq Hassan
 
-### 🚀 Full Stack Developer from Bangladesh
+### 🚀 Senior Full Stack Engineer | Bangladesh
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=MERN+Stack+Developer;TypeScript+Enthusiast;Building+Scalable+Web+Apps;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Senior+Full+Stack+Engineer;System+Architecture+%26+Design;Building+Scalable+Distributed+Systems;Technical+Leadership+%26+Mentorship)](https://git.io/typing-svg)
 
 <a href="https://linkedin.com/in/tareqhassan2014" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -27,21 +27,35 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-```javascript
-const tareq = {
-  pronouns: "He" | "Him",
-  location: "Bangladesh 🇧🇩",
-  currentFocus: "Building scalable web applications",
-  learning: ["System Architecture", "Cloud Technologies", "DevOps"],
-  askMeAbout: ["React", "Node.js", "TypeScript", "MongoDB", "REST APIs"],
-  funFact: "I debug with console.log and I'm not ashamed 😄",
-};
+```typescript
+class SeniorEngineer {
+  name = "Tareq Hassan";
+  location = "Bangladesh 🇧🇩";
+  role = "Senior Full Stack Engineer";
+
+  expertise = {
+    architecture: [
+      "Microservices",
+      "Event-Driven Systems",
+      "Domain-Driven Design",
+    ],
+    frontend: ["React", "Next.js", "TypeScript", "State Management"],
+    backend: ["Node.js", "NestJS", "REST APIs", "GraphQL"],
+    extensions: ["Plasmo", "Chrome APIs", "100K+ Users"],
+    databases: ["PostgreSQL", "MongoDB", "Redis", "Query Optimization"],
+    cloud: ["AWS", "Docker", "CI/CD Pipelines", "Infrastructure as Code"],
+  };
+
+  focus = "Designing scalable, maintainable systems that drive business impact";
+}
 ```
 
-- 🔭 Currently working on **Full Stack Web Applications**
-- 🌱 Learning **Next.js 14, AWS, & Advanced System Design**
-- 👯 Open to collaborate on **Open Source Projects**
-- ⚡ Fun fact: **Coffee → Code → Repeat ☕**
+- 🏗️ **Architecting** high-performance, distributed systems at scale
+- 🎯 **Specializing** in end-to-end product development & technical leadership
+- 🧩 **Built** browser extensions with **100K+ active users** using Plasmo framework
+- 📐 **Passionate** about clean code, design patterns & software craftsmanship
+- 🤝 **Mentoring** teams and fostering engineering best practices
+- 🔬 **Exploring** advanced system design, cloud-native architectures & emerging technologies
 
 <br/>
 
@@ -63,6 +77,7 @@ const tareq = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Plasmo](https://img.shields.io/badge/Plasmo-1E1E1E?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -89,6 +104,15 @@ const tareq = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Analytics & Monitoring
+
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=googletag&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=F9BD2B)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### Tools
 
