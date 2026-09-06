@@ -2,13 +2,7 @@
 
 <div align="center">
 
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
-## I'm Tareq Hassan
-
-### 🚀 Senior Full Stack Engineer | Bangladesh
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Senior+Full+Stack+Engineer;System+Architecture+%26+Design;Building+Scalable+Distributed+Systems;Technical+Leadership+%26+Mentorship)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=System+Architecture+%26+Design;Building+Scalable+Distributed+Systems;Technical+Leadership+%26+Mentorship)](https://git.io/typing-svg)
 
 <a href="https://linkedin.com/in/tareqhassan2014" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -31,10 +25,6 @@
 
 ```typescript
 class SeniorEngineer {
-  name = "Tareq Hassan";
-  location = "Bangladesh 🇧🇩";
-  role = "Senior Full Stack Engineer";
-
   expertise = {
     architecture: [
       "Microservices",
