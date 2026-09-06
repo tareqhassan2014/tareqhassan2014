@@ -120,12 +120,12 @@ class SeniorEngineer {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tareqhassan2014&theme=tokyonight" alt="Tareq's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tareqhassan2014&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="Tareq's Streak" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tareqhassan2014&theme=tokyonight" alt="Tareq's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tareqhassan2014&theme=tokyonight" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tareqhassan2014&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="Tareq's Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tareqhassan2014&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br/>
