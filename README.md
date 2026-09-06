@@ -120,19 +120,19 @@ class SeniorEngineer {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tareqhassan2014&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="Tareq's GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tareqhassan2014&theme=tokyonight" alt="Tareq's GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tareqhassan2014&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="Tareq's Streak" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tareqhassan2014&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tareqhassan2014&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br/>
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tareqhassan2014&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://readme-activity-graph.vercel.app/graph?username=tareqhassan2014&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 <br/>
 
